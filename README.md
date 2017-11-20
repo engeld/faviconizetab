@@ -1,2 +1,2 @@
 # faviconizetab-webext
-* Fork of the original FaviconizeTab, ported to WebExt*
+ *Fork of the original FaviconizeTab, ported to WebExt*
